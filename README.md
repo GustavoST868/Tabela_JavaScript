@@ -1,2 +1,2 @@
-# Tabelas
-Tabelas com HTML e CSS.
+# Tabela
+Tabela com HTML e CSS e JavaScript.
